@@ -1,4 +1,4 @@
-# STAT1005Docs
+# STAT1005 Introduction to Probability
 Documents made for STAT1005
 
 Author:     Lisa Luff
